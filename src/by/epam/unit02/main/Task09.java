@@ -15,5 +15,5 @@ public class Task09 {
         } else {
             System.out.println("Значение не определено");
         }
-    }
+    }// Молодец
 }
